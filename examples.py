@@ -5,7 +5,7 @@ import sys
 # 'set_theme' allows you to switch between predefined visual themes.
 # 'TermStyle' (the class itself) is imported here to access its internal color/format dictionaries
 # for iterating through all available styles in the examples.
-from pytermstyleplus import style, set_theme, TermStyle 
+from PyTermStylePlus import style, set_theme, TermStyle 
 
 # --- Comprehensive Style Examples ---
 # This section demonstrates various ways to use the PyTermStylePlus library.
